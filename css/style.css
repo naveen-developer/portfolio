@@ -125,7 +125,7 @@ p{
 	margin-bottom: 50px;
 }
 
-.headings h1{
+.headings .hfsize{
 	font-size: 1.5rem;
 	font-weight: 600;
 }
